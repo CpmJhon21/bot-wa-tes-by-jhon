@@ -1,3 +1,1 @@
-# Public README
-
-Lihat dokumentasi lengkap di [README internal](./https://github.com/CpmJhon21/Haha-gabut-/blob/main/README.md)
+Lihat dokumentasi di [repo private](https://github.com/CpmJhon21/Haha-gabut-/blob/main/README.md)
