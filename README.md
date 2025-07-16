@@ -1,7 +1,7 @@
 
 # Dokumentasi
 
-📄 Untuk dokumentasi internal, silakan lihat [README internal (akses terbatas)](https://github.com/CpmJhon21/Haha-gabut-/blob/main/README.md)
+📄 Untuk dokumentasi internal, silakan lihat [README internal (akses terbatas)](https://cpm-jhon-readme-2105.netlify.app/)
 
-> Anda harus login dan memiliki izin untuk mengakses link ini.
-> 
+> anda bisa melihat di sini.
+> cara run bot.
